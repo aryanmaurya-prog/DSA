@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/aryanmaurya-prog/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/aryanmaurya-prog/DSA/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/aryanmaurya-prog/DSA/tree/main/0189-rotate-array/) | Medium |
+| [0704-binary-search](https://github.com/aryanmaurya-prog/DSA/tree/main/0704-binary-search/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -32,4 +33,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0018-4sum](https://github.com/aryanmaurya-prog/DSA/tree/main/0018-4sum/) | Medium |
 | [0075-sort-colors](https://github.com/aryanmaurya-prog/DSA/tree/master/0075-sort-colors) |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0704-binary-search](https://github.com/aryanmaurya-prog/DSA/tree/main/0704-binary-search/) | Easy |
 <!---LeetCode Topics End-->
