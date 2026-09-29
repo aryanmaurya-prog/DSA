@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0018-4sum](https://github.com/aryanmaurya-prog/DSA/tree/main/0018-4sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/aryanmaurya-prog/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0035-search-insert-position](https://github.com/aryanmaurya-prog/DSA/tree/main/0035-search-insert-position/) | Easy |
 | [0075-sort-colors](https://github.com/aryanmaurya-prog/DSA/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/aryanmaurya-prog/DSA/tree/main/0189-rotate-array/) | Medium |
 | [0704-binary-search](https://github.com/aryanmaurya-prog/DSA/tree/main/0704-binary-search/) | Easy |
@@ -36,5 +37,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0035-search-insert-position](https://github.com/aryanmaurya-prog/DSA/tree/main/0035-search-insert-position/) | Easy |
 | [0704-binary-search](https://github.com/aryanmaurya-prog/DSA/tree/main/0704-binary-search/) | Easy |
 <!---LeetCode Topics End-->
